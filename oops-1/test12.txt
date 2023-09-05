@@ -1,0 +1,4 @@
+encapsulation is:
+
+check encapsulation advantage.txt
+To learn more about the static keyword, go to test13.cpp
