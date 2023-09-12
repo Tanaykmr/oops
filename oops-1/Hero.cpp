@@ -7,5 +7,5 @@ class Hero {
 		void setHealth(int h)
 		{
         	health = h;
-    	}
+  }
 };
